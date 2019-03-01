@@ -10,10 +10,12 @@
 .divider-color         { border-color: #BDBDBD; }*/
 *{
     background-color: azure;
-    border: red dotted;
+    
     display: flexbox;
 }
-
+.box{
+    border: red dotted;
+}
 .container{
     border:4mm ridge rgb(170, 50, 220, .6);
 }
