@@ -19,3 +19,6 @@
 .container{
     border:4mm ridge rgb(170, 50, 220, .6);
 }
+.images{
+    border-style:solid;
+}
