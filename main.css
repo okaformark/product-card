@@ -10,11 +10,11 @@
 .divider-color         { border-color: #BDBDBD; }*/
 *{
     background-color: azure;
-    
-    display: flexbox;
 }
 .box{
     border: red dotted;
+    display: flex;
+    flex-direction: row;
 }
 .container{
     border:4mm ridge rgb(170, 50, 220, .6);
