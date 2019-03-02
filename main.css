@@ -13,12 +13,16 @@
 }
 .box{
     border: red dotted;
-    display: flex;
     flex-direction: row;
 }
 .container{
     border:4mm ridge rgb(170, 50, 220, .6);
+    
 }
 .images{
     border-style:solid;
+}
+h2{
+    font-family: sans-serif;
+    font-style: italic;
 }
