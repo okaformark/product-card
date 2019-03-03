@@ -28,7 +28,8 @@
     max-height: 45%;
     box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
     border: 1px solid lightblue;
-    margin: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
 header{
     border: 1px solid lightblue;
