@@ -18,13 +18,14 @@
     flex-flow:row wrap;
     justify-content: space-evenly;
     border: 1px dotted darkred;
-    margin: auto;
+    margin: 2%;
 }
 .container{
     display: flex;
     flex-flow: column nowrap;
     justify-content: space-between;
-    width: 30%;
+    max-width: 30%;
+    max-height: 45%;
     box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
     border: 1px solid lightblue;
     margin: auto;
