@@ -10,11 +10,63 @@
 .divider-color         { border-color: #BDBDBD; }*/
 *{
     background-color: azure;
+    margin: 0%
 }
 .box{
-    border: red dotted;
+    border: 2px solid black;
+    display: flex;
+    flex-flow:row wrap;
+    justify-content: space-evenly;
+    border: 1px dotted darkred;
+    margin: auto;
 }
 .container{
-    border:4mm ridge rgb(170, 50, 220, .6);
-    
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-between;
+    width: 30%;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    border: 1px solid lightblue;
+    margin: auto;
+}
+header{
+    border: 1px solid lightblue;
+    display: flexbox;
+    flex-direction: row;
+}
+p{
+    text-align: justify;
+    text-justify: inter-word;
+    font-weight: bold;
+}
+.images img{
+    display: flexbox;
+    align-content: center;
+    max-width: 100%;
+    padding: 2%;
+    padding-left: 28%;
+    flex-grow: 1;
+    flex-basis: 16%;
+}
+.product-specification>p{
+    margin-left: 2%;
+}
+.product-specification>h2{
+    margin-left: 1%;
+}
+header>h3{
+    background-color: darkgrey;
+    color: yellow;
+}
+header>h1{
+    text-align: center;
+}
+.child-element>p{
+    padding: 2%;
+}
+.pricing>p{
+    margin-left: 2%;
+}
+.pricing>h2{
+    margin-left: 1%;
 }
