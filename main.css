@@ -72,3 +72,8 @@ header>h1{
 .pricing>h2{
     margin-left: 1%;
 }
+@media (max-width: 920px) {
+    .box {
+      flex: 1 21%;
+    }
+  }
