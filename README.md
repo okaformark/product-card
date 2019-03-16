@@ -1,5 +1,5 @@
 # Product Cards
-Prints a bunch of pies to the screen. Allows user to filter the pies they see based on the button you click on.
+Prints a few iPhone products to the screen.
 
 ## Screenshots
 ![alt text](https://raw.githubusercontent.com/okaformark/product-card/master/images/card.png)
