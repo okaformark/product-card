@@ -3,7 +3,7 @@ Prints a bunch of pies to the screen. Allows user to filter the pies they see ba
 
 ## Screenshots
 ![alt text]
-(./images/prd.card.png)
+(./images/card.png)
 
 ## Getting Started
 
